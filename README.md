@@ -1,8 +1,8 @@
 # 目录
 
-* [推荐的开源APP](https://github.com/NUCOSC/RecommendProjects/README.md#推荐的开源APP)
-* [Git](https://github.com/NUCOSC/RecommendProjects/README.md#Git)
-* [3D打印&CNC](https://github.com/NUCOSC/RecommendProjects/README.md#3D打印&CNC)
+* [推荐的开源APP](https://github.com/NUCOSC/RecommendProjects/README.md#推荐的开源app)
+* [Git](https://github.com/NUCOSC/RecommendProjects/README.md#git)
+* [3D打印&CNC](https://github.com/NUCOSC/RecommendProjects/README.md#3d打印&cnc)
 * [网页前端](https://github.com/NUCOSC/RecommendProjects/README.md#网页前端)
 * [微信小程序](https://github.com/NUCOSC/RecommendProjects/README.md#微信小程序)
 * [机器学习](https://github.com/NUCOSC/RecommendProjects/README.md#机器学习)
@@ -11,7 +11,7 @@
 * [硬件开发](https://github.com/NUCOSC/RecommendProjects/README.md#硬件开发)
 * [算法](https://github.com/NUCOSC/RecommendProjects/README.md#算法)
 * [计算机科学](https://github.com/NUCOSC/RecommendProjects/README.md#计算机科学)
-* [SSL证书签发](https://github.com/NUCOSC/RecommendProjects/README.md#SSL证书签发)
+* [SSL证书签发](https://github.com/NUCOSC/RecommendProjects/README.md#ssl证书签发)
 * [面试](https://github.com/NUCOSC/RecommendProjects/README.md#面试)
 
 # 推荐的开源APP
