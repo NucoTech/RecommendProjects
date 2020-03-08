@@ -35,6 +35,7 @@
 
 * [dongbei](https://github.com/zhanyong-wan/dongbei): 看啥玩意儿呢？说你呢？这，用东北方言来编程
 * [wenyan](https://github.com/wenyan-lang/wenyan): 用文言文来编程？
+* [《Go语言圣经(中文版)》](https://github.com/golang-china/gopl-zh)
 * [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book): 开源图书《Go语言高级编程》
 
 # PC端开发
