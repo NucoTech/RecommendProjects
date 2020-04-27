@@ -10,6 +10,10 @@
             content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
         />
         <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
+        <link
+            rel="stylesheet"
+            href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css"
+        />
     </head>
     <body>
         <div id="app">Loading...</div>
@@ -26,16 +30,18 @@
                 alias: {
                     "/.*/_sidebar.md": "/_sidebar.md",
                 },
-                count: {
-                    countable: true,
-                    fontsize: "0.9em",
-                    color: "rgb(90,90,90)",
-                    language: "chinese",
-                },
+                // count: {
+                //     countable: true,
+                //     fontsize: "0.9em",
+                //     color: "rgb(90,90,90)",
+                //     language: "chinese",
+                // },
+                themeColor: "#42b983"
             }
         </script>
         <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2.1.0/dist/docsify-copy-code.min.js"></script>
-        <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+        <!-- <script src="//unpkg.com/docsify-count/dist/countable.js"></script> -->
+        <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@latest/dist/docsify-copy-code.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
     </body>
 </html>
