@@ -1,6 +1,6 @@
 # NUCOSC Recommend Projects
 
-> 开源让编码更高效！
+> 开源让开发更高效！
 
 - 项目覆盖范围广
 - 实际使用经验
