@@ -25,6 +25,37 @@
 * [Davinci](http://www.blackmagicdesign.com/cn/products/davinciresolve): 一款专业级的剪辑调色软件
 * [WinDirStat](https://windirstat.net/): 磁盘扫描工具，可以辅助清理C盘
 * [Dism++](https://www.chuyu.me/zh-Hans/): 磁盘清理工具
+* [Auto Dark Mode](https://github.com/Armin2208/Windows-Auto-Night-Mode): 一个自动改变Win10的默认主题的工具，根据日落时间自动切换黑色模式，浏览器、文档管理器等等都可以随之改变主题
+* [字由](https://www.hellofont.cn/): 可商用的字体平台，规避可能的字体版权带来的法律风险
+* [flu.x](https://justgetflux.com/): 根据时间自动调节屏幕色温的工具，比Win10自带的夜间模式工具更好用
+
+## 浏览器插件
+
+> Edge chromium版是可以使用Chrome的插件的，但是根据下载商店的不同还是区分一下，插件越多所带来的访问速度会更差，所以一定要权衡。当然，浏览器插件的玩法有很多，也完全可以自己开发插件的。
+
+### Chrome插件
+
+> Chrome插件下载需要科学上网，当然你也可以通过`crx`的文件安装来替代，可以使用[crx4](http://www.crx4.com/)或者[crx4Chrome](https://www.crx4chrome.com/)来下载，使用插件存在一定的风险，望周知。
+
+* [Tampermonkey油猴](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo): js脚本扩展工具，很多很多的什么破解啊、刷课啊等等都是通过油猴运行js脚本来实现的，可以看作是二次扩展
+* [彩云小译](https://fanyi.caiyunapp.com/#/): 可以划词翻译，全文翻译的插件，还可以实时翻译，别充值
+* [FeHelper前端助手](https://www.baidufe.com/fehelper/index/index.html): 在这个之前我都是一个个找的跟开发相关的插件的
+* [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh): 网页配色分析工具
+* [二箱](https://chrome.google.com/webstore/detail/noobox/kidibbfcblfbbafhnlanccjjdehoahep): 跟图片搜索有关的插件
+* [Scholarscope](https://www.scholarscope.cn/): 科研工具
+* [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo): 网页版Postman，用于接口测试
+* [扩展管理器（Extension Manager）](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco): 管理扩展插件的插件工具
+* [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk): 前端性能优化测试工具
+* [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb): 让你完全使用键盘浏览网页的工具
+* [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd): Vue开发工具
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi): React开发工具
+
+### Edge插件
+
+* [Dark Reader](https://microsoftedge.microsoft.com/addons/detail/ifoakfbpdcdoeenechcleahebpibofpc): 自动把网页转化为夜间模式
+* [简悦](http://ksria.com/simpread/): 沉浸式阅读插件
+* [哔哩哔哩助手：bilibili.com 综合辅助扩展](https://microsoftedge.microsoft.com/addons/detail/fcfebhekhbkhjjimonjmbgmkbclheaoh): Bilibili助手
+* [Google学术搜索按钮](https://microsoftedge.microsoft.com/addons/detail/fciokoalnclhnonofghacdplgpafdcgl): Google 学术搜索
 
 ## Android平台
 
