@@ -1,4 +1,4 @@
-# NUCOSC Recommend Projects
+# NucoTech Recommend Projects
 
 > 开源让开发更高效！
 
@@ -6,6 +6,5 @@
 - 实际使用经验
 - 坚持开源精神
 
-[GitHub](https://github.com/NUCOSC/RecommendProjects)
-[Gitee](https://gitee.com/NUCOSC/RecommendProjects)
+[GitHub](https://github.com/NucoTech/RecommendProjects)
 [Get Started](guide)
